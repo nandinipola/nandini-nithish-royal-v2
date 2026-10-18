@@ -6,5 +6,6 @@ export default defineConfig({
   server: {
     port: 5173,
   },
-  base: './' // relative paths: works on any GitHub Pages repo name
+  base: '/nandini-nithish-royal-v2/',
+  //base: './' // relative paths: works on any GitHub Pages repo name
 });
